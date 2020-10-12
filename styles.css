@@ -1,0 +1,60 @@
+
+ul{
+     background: black;
+}
+li{
+    display: inline;
+   
+}
+a{
+    
+    font-size: 140%;
+    color: white;
+    
+}
+.end a{
+    text-decoration: none;
+    color:black;
+    font-size: 100%;
+    
+
+}
+
+h1{
+    font-size: 200%;
+    color: white;
+    padding-top: 5%;
+}
+
+h3{
+    font-size: 140%;
+    color:white;
+   
+}
+
+p{
+    font-size: 200%;
+    color: white;
+    padding-top: 5%;
+
+    padding-left: 10%;
+}
+h2{
+    font-size: 145%;
+    color: blue;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+#rollno{
+ background-color: blueviolet;
+ position: fixed;
+ top: -0.1; 
+ right: 1;  
+ margin-left: 1234px;
+
+}
+
+#rollno:hover{
+    color: red;
+}
